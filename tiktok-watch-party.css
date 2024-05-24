@@ -1,0 +1,62 @@
+*{
+    padding:0;
+    margin:0;
+  }
+  body{
+    background-color:whitesmoke;
+  }
+  header{
+    background-color:rgba(0,149,199,0.6);
+    color:white;
+    border-bottom:10px solid black;
+  }
+  .top a{
+    text-decoration: none;
+  }
+  .top h1{
+    margin:0 auto;
+    text-align:center;
+    padding-top:5%;
+    padding-bottom:2%;
+    font-size:3.5vw;
+    color:white;
+  }
+.top i{
+  margin-left:2%;
+}
+
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tiktok{
+    width:22vw;
+    height: auto;
+    margin-top:7.5%;
+    border-radius: 15%;
+    margin-bottom: 5%;
+}
+main i{
+    font-size:3vw;
+    cursor:pointer;
+    margin:2%;
+}
+
+button{
+    font-size:2vw;
+    width:15vw;
+    height:3vw;
+    cursor:pointer;
+    border-radius: 5%;
+    background-color:white;
+    color: rgba(0,149,199,0.6);
+    transition:0.4s;
+    font-family: "DM Serif Display", serif;
+    margin-bottom: 3%;
+}
+button:hover{
+    color:rgba(234,68,90,0.8);
+    transition: 0.4s;
+}
