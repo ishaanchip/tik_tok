@@ -2,7 +2,7 @@
 let questions = [
     "For the 'Brain Rot Question Quiz' TikTok, state TWO of the brain rot questions & their corresponding answers OR name the game being played in the background.",
     "What substance was inside the 100 liter tank in the last video",
-    "What did you eat for lunch yesterday?",
+    "What game was being played in the background of the 'Brain Rot Question Quiz'?",
     "Briefly summarize the five videos we've just watched.",
     "Emulate TWO gun sounds made in the 'What does your gun sound like?' video OR showcase what your gun sounds like to the class."
 ]
